@@ -1,1 +1,1 @@
-This is my first repository. And let us add some changes into this
+This is my first repository. And let us add some changes into this. It's been great doing "git Commands" in the Git Bash
